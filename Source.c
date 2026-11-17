@@ -2,6 +2,30 @@
 //#include <stdio.h>
 //#include <Windows.h>
 //
+// 
+//lab 1_1
+//#include <stdio.h>
+//
+//int main(void)
+//{
+//    int N;
+//    int i, j;
+//
+//    printf("¬ведите N: ");
+//    scanf_s("%d", &N);
+//
+//    for (i = N; i >= 1; i--)
+//    {
+//        for (j = 1; j <= i; j++)
+//        {
+//            printf("%d", j);
+//        }
+//        printf("\n");
+//    }
+//
+//    return 0;
+//}
+// 
 //void main()
 //{
 //	int a, b, min, max;
